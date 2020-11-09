@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "react-native-dark-mode-toggle-with-redux",
+    "slug": "snack-a7ecf06a-6fe5-4e7e-82b1-5b4e102db08e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMobileAdsAppId":"ca-app-pub-2547344479047582~6461027414"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMobileAdsAppId":"ca-app-pub-2547344479047582~7785850471"
+      }
+     
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
